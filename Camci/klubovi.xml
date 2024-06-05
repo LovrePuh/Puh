@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<klubovi>
+    <klub>
+        <ime>HAVK Mladost</ime>
+        <godiste>1946.</godiste>
+        <grad>Zagreb</grad>
+        <plasman>1.</plasman>
+        <bodovi>136.56</bodovi>
+        <grb>slike\Mladost.jpg</grb>
+    </klub>
+    <klub>
+        <ime>VK Iktus</ime>
+        <godiste>1972.</godiste>
+        <grad>Osijek</grad>
+        <plasman>2.</plasman>
+        <bodovi>130.18</bodovi>
+        <grb>slike\Iktus.jpg</grb>
+    </klub>
+    <klub>
+        <ime>VK Trešnjevka</ime>
+        <godiste>1923.</godiste>
+        <grad>Zagreb</grad>
+        <plasman>3.</plasman>
+        <bodovi>109.63</bodovi>
+        <grb>slike\Tresnjevka.jpg</grb>
+    </klub>
+    <klub>
+        <ime>VK Istra</ime>
+        <godiste>1886.</godiste>
+        <grad>Pula</grad>
+        <plasman>4.</plasman>
+        <bodovi>78.82</bodovi>
+        <grb>slike\istra.jpg</grb>
+    </klub>
+    <klub>
+        <ime>VK Jadran Zadar</ime>
+        <godiste>1908.</godiste>
+        <grad>Zadar</grad>
+        <plasman>5.</plasman>
+        <bodovi>55.54</bodovi>
+        <grb>slike\Zadar.jpg</grb>
+    </klub>
+</klubovi>

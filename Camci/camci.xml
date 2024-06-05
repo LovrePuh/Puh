@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<camci>
+    <camac>
+        <ime>Boris 2</ime>
+        <godiste>2011</godiste>
+        <marka>Empacher</marka>
+        <kategorija>Osmerac s kormilarom</kategorija>
+        <namjenjenaKilaza>100</namjenjenaKilaza>
+        <tezina>96</tezina>
+        <vlasnik>HAVK Mladost</vlasnik>
+        <posada>
+            <veslac>Valent Sinković</veslac>
+            <veslac>Martin Sinković</veslac>
+            <veslac>Anton Lončarić</veslac>
+            <veslac>Patrik Lončarić</veslac>
+            <veslac>Sven Banović</veslac>
+            <veslac>Ivan Talaja</veslac>
+            <veslac>Ivan Piton</veslac>
+            <veslac>Lovre Puh</veslac>
+        </posada>
+        <slika>slike\Boris2.jpg</slika>
+    </camac>
+    <camac>
+        <ime>Horse</ime>
+        <godiste>2016</godiste>
+        <marka>Filippi</marka>
+        <kategorija>Četverac na pariće</kategorija>
+        <namjenjenaKilaza>90</namjenjenaKilaza>
+        <tezina>52</tezina>
+        <vlasnik>VK Trešnjevka</vlasnik>
+        <posada>
+            <veslac>Boris Cesarec</veslac>
+            <veslac>Davor Poljančić</veslac>
+            <veslac>Mihael Girotto</veslac>
+            <veslac>David Zebec</veslac>
+        </posada>
+        <slika>slike\Horse.jpg</slika>
+    </camac>
+    <camac>
+        <ime>Kiwi</ime>
+        <godiste>2018</godiste>
+        <marka>Filippi</marka>
+        <kategorija>Samac</kategorija>
+        <namjenjenaKilaza></namjenjenaKilaza>
+        <tezina>14</tezina>
+        <vlasnik>Hrvatski veslački savez</vlasnik>
+        <posada>
+            <veslac>Tin Jarnjević</veslac>
+        </posada>
+        <slika>slike\Kiwi.jpg</slika>
+    </camac>
+    <camac>
+        <ime>Vidikovac</ime>
+        <godiste>2017</godiste>
+        <marka>Filippi</marka>
+        <kategorija>Dvojac bez kormilara</kategorija>
+        <namjenjenaKilaza>90</namjenjenaKilaza>
+        <tezina>27</tezina>
+        <vlasnik>VK Istra</vlasnik>
+        <posada>
+            <veslac>Adrian Mačina</veslac>
+            <veslac>Lovre Puh</veslac>
+        </posada>
+        <slika>slike\Vidikovac.jpeg</slika>
+    </camac>
+</camci>
